@@ -1,0 +1,13 @@
+#server:
+#  port: 8081
+#
+#person:
+#  person-name: 攻略
+#  age: 25
+#  maps: {k: v, k1: v1}
+#  lists:
+#      - 小二
+#      - 笑说的
+#  cat:
+#      catName: 小白
+#      date: 2019/2/9
